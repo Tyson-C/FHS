@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    background: coral;
+}
+
+h1 {
+    font-size: clamp(16px, 8vw, 64px);
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+svg {
+    max-height: 100vh;
+    min-width: 100vw;
+}
